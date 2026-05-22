@@ -25,21 +25,9 @@ AI & Machine Learning
 Natural Language Processing (NLP)
 TensorFlow / Scikit-learn
 NLTK
----------------------------------------------------------------------------------
 
-EmoAssist/
-│
-├── static/              # CSS, JavaScript, Images
-├── templates/           # HTML Templates
-├── model/               # Trained Machine Learning Models
-├── app.py               # Main Application File
-├── requirements.txt     # Project Dependencies
-└── README.md            # Project Documentation
------------------------------------------------------------------------------------
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/EmoAssist.git
-cd EmoAssist
 2️⃣ Create a Virtual Environment
 python -m venv venv
 3️⃣ Activate the Virtual Environment Windows
@@ -48,7 +36,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 5️⃣ Run the Application
 python app.py
----------------------------------------------------------------------------------
 🎯 Objectives
 Provide emotional support using AI
 Help users manage stress and anxiety
